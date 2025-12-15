@@ -35,7 +35,7 @@ async function crearCursos() {
         titulo: 'Matemáticas Avanzadas',
         descripcion:
           'Cálculo diferencial e integral, álgebra lineal y ecuaciones diferenciales',
-        docenteId: 2,
+        docenteId: 1,
         grado: '5to',
         seccion: 'A',
       },
@@ -43,7 +43,7 @@ async function crearCursos() {
         titulo: 'Programación Web Full Stack',
         descripcion:
           'Desarrollo web moderno con React, Node.js, Express y MongoDB',
-        docenteId: 2,
+        docenteId: 1,
         grado: '5to',
         seccion: 'A',
       },
@@ -51,7 +51,7 @@ async function crearCursos() {
         titulo: 'Inteligencia Artificial',
         descripcion:
           'Machine Learning, Deep Learning y aplicaciones prácticas de IA',
-        docenteId: 2,
+        docenteId: 1,
         grado: '5to',
         seccion: 'B',
       },
@@ -59,14 +59,14 @@ async function crearCursos() {
         titulo: 'Base de Datos Avanzadas',
         descripcion:
           'SQL, NoSQL, optimización de consultas y diseño de bases de datos',
-        docenteId: 2,
+        docenteId: 1,
         grado: '5to',
         seccion: 'B',
       },
       {
         titulo: 'Desarrollo Móvil',
         descripcion: 'Creación de apps nativas con React Native y Flutter',
-        docenteId: 2,
+        docenteId: 1,
         grado: '4to',
         seccion: 'A',
       },
@@ -74,14 +74,14 @@ async function crearCursos() {
         titulo: 'Ciberseguridad',
         descripcion:
           'Seguridad informática, ethical hacking y protección de sistemas',
-        docenteId: 2,
+        docenteId: 1,
         grado: '4to',
         seccion: 'A',
       },
       {
         titulo: 'Cloud Computing',
         descripcion: 'AWS, Azure, Google Cloud y arquitecturas en la nube',
-        docenteId: 2,
+        docenteId: 1,
         grado: '4to',
         seccion: 'B',
       },
@@ -89,7 +89,7 @@ async function crearCursos() {
         titulo: 'DevOps y CI/CD',
         descripcion:
           'Docker, Kubernetes, Jenkins y automatización de despliegues',
-        docenteId: 2,
+        docenteId: 1,
         grado: '4to',
         seccion: 'B',
       },
@@ -97,7 +97,7 @@ async function crearCursos() {
         titulo: 'Diseño UX/UI',
         descripcion:
           'Principios de diseño, Figma, prototipado y experiencia de usuario',
-        docenteId: 2,
+        docenteId: 1,
         grado: '3ro',
         seccion: 'A',
       },
@@ -105,7 +105,7 @@ async function crearCursos() {
         titulo: 'Blockchain y Criptomonedas',
         descripcion:
           'Tecnología blockchain, smart contracts y desarrollo de DApps',
-        docenteId: 2,
+        docenteId: 1,
         grado: '3ro',
         seccion: 'A',
       },
